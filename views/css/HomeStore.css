@@ -2,11 +2,11 @@
 
 body{
 	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-	background-color:#fff;
+	background-color: white;
 	margin:5px;
 	text-align:left;
-	color: #fff;
-	background-image: url("../img/logo.jpg");
+	color: black;
+	background-image: url("../img/background.webp");
 	background-position: center;
     background-repeat: no-repeat;
 	background-size: 100%;
@@ -49,7 +49,7 @@ td{
 }
 
 #logoImage{
-	align-self: center;
+	align-self: ;
 	padding-left: 10px;
 	padding-right: 10px;
 }
